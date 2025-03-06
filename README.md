@@ -21,8 +21,12 @@
 ---
 
 ### :computer: Tools:
-![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple?&logo=visual%20studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue)
+![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple?&logo=visual%20studio&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue)  
+![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red?&logo=microsoft%20sql%20server&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/CSS%20Framework-Tailwind%20CSS-0ea5e9?&logo=tailwind%20css&logoColor=white)  
+![CSS](https://img.shields.io/badge/Style-CSS-blue?&logo=css3&logoColor=white)  
+![XAMPP](https://img.shields.io/badge/Local%20Server-XAMPP-orange?&logo=xampp&logoColor=white)  
 
 ---
 
