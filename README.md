@@ -14,7 +14,7 @@ Lifelong Learner, currently a **An 11th-grade Vocational High School student maj
 ### :sparkles: Yosh!
 - :keyboard: I’m currently learning **Android Application**.  
 - :speech_balloon: Ask me about anything.  
-- :mailbox: How to reach me: [Email me!](mailto:SyifaIsnan@gmail.com)  
+- :mailbox: [My email!](mailto:SyifaIsnan@gmail.com)  
 - :cloud: Pronouns: **She/Her**.  
 
 ---
