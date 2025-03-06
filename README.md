@@ -1,5 +1,14 @@
 ### Hi there :wave:, I'm Syifa!
-Lifelong Learner, currently a **An 11th-grade Vocational High School student majoring in Software Engineering (RPL)**.
+Growing, Learning, Evolving and Solving.
+
+---
+
+### :sparkles: Intro!
+- :woman_student: I'm an **11th-grade Vocational High School student majoring in Software Engineering (RPL)**.
+- :keyboard: I’m currently learning **Android Application**.  
+- :speech_balloon: Ask me about anything.  
+- :mailbox: [My email!](mailto:SyifaIsnan@gmail.com)  
+- :cloud: Pronouns: **She/Her**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SyifaIsnan&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -8,14 +17,6 @@ Lifelong Learner, currently a **An 11th-grade Vocational High School student maj
 ### :computer: Tools:
 ![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple?&logo=visual%20studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue)
-
----
-
-### :sparkles: Yosh!
-- :keyboard: I’m currently learning **Android Application**.  
-- :speech_balloon: Ask me about anything.  
-- :mailbox: [My email!](mailto:SyifaIsnan@gmail.com)  
-- :cloud: Pronouns: **She/Her**.  
 
 ---
 
