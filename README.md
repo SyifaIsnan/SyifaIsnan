@@ -18,6 +18,8 @@ Lifelong Learner, currently a **An 11th-grade Vocational High School student maj
 - :cloud: Pronouns: **She/Her**.  
 
 ---
+### :bar_chart: Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaIsnan&layout=compact)
 
 ### :computer: Programming Languages:
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
