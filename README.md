@@ -1,16 +1,22 @@
 ### Hi there :wave:, I'm Syifa!
-Growing, Learning, Evolving and Solving.
+📓 Growing, Learning, Evolving and Solving.
 
 ---
 
 ### :sparkles: Intro!
 - :woman_student: I'm an **11th-grade Vocational High School student majoring in Software Engineering (RPL)**.
 - :keyboard: I’m currently learning **Android Application**.  
-- :speech_balloon: Ask me about anything.  
-- :mailbox: [My email!](mailto:SyifaIsnan@gmail.com)  
 - :cloud: Pronouns: **She/Her**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SyifaIsnan&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+### :link: Contact Me!
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:SyifaIsnan@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sqignora)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/i_syiff/)
+
 
 ---
 
@@ -29,9 +35,6 @@ Growing, Learning, Evolving and Solving.
 ### :bar_chart: Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaIsnan&layout=compact)
 
----
 
-### :link: Let's connect!
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sqignora)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/i_syiff/)
+
 
