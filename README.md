@@ -1,5 +1,5 @@
 ### Hi there :wave:, I'm Syifa!
-📓 Growing, Learning, Evolving and Solving.
+📓 Growing, Evolving, Learning, and Solving.
 
 ---
 
