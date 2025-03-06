@@ -27,10 +27,10 @@
 ---
 
 ### :computer: Programming Languages:
-![PHP](https://img.shields.io/badge/-?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/-?style=flat-square&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
 ### :bar_chart: Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyifaIsnan&layout=compact)
