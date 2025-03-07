@@ -4,7 +4,7 @@
 > 📓 Growing, Evolving, Learning, and Solving.
 
 
-### :sparkles: Intro!
+# :sparkles: Intro!
 :woman_student: I'm an **11th-grade student at State Vocational High School 1 Purbalingga, majoring in Software Engineering (RPL).**
 :keyboard: I’m currently learning **Android Application**.  
 :cloud: Pronouns: **She/Her**.
