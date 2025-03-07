@@ -1,4 +1,6 @@
-<h1>### Hi there :wave:, I'm Syifa!</h1>
+<h1>Hi there :wave:, I'm Syifa!</h1>
+
+
 📓 Growing, Evolving, Learning, and Solving.
 
 ---
