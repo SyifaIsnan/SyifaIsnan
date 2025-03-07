@@ -19,12 +19,12 @@
 
 
 # 🛠 Language and tools:
-![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-purple?&logo=visual%20studio&logoColor=white)  
-![Visual Studio Code](https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue)  
-![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red?&logo=microsoft%20sql%20server&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/CSS%20Framework-Tailwind%20CSS-0ea5e9?&logo=tailwind%20css&logoColor=white)  
-![CSS](https://img.shields.io/badge/Style-CSS-blue?&logo=css3&logoColor=white)  
-![XAMPP](https://img.shields.io/badge/Local%20Server-XAMPP-orange?&logo=xampp&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 
 ### :bar_chart: Most Used Languages
