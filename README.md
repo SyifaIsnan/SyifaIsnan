@@ -5,8 +5,8 @@
 
 
 # :sparkles: Intro!
-:woman_student: I'm an **11th-grade student at State Vocational High School 1 Purbalingga, majoring in Software Engineering (RPL).**
-:keyboard: I’m currently learning **Android Application**.  
+:woman_student: I'm an **11th-grade student at State Vocational High School 1 Purbalingga, majoring in Software Engineering (RPL).** <br>
+:keyboard: I’m currently learning **Android Application**.  <br>
 :cloud: Pronouns: **She/Her**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SyifaIsnan&label=Profile%20views&color=0e75b6&style=flat)
