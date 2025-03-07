@@ -1,13 +1,13 @@
 <h1>Hi there :wave:, I'm Syifa!</h1>
 
 
-📓 Growing, Evolving, Learning, and Solving.
+> 📓 Growing, Evolving, Learning, and Solving.
 
 
 ### :sparkles: Intro!
-- :woman_student: I'm an **11th-grade student at State Vocational High School 1 Purbalingga, majoring in Software Engineering (RPL).**
-- :keyboard: I’m currently learning **Android Application**.  
-- :cloud: Pronouns: **She/Her**.
+:woman_student: I'm an **11th-grade student at State Vocational High School 1 Purbalingga, majoring in Software Engineering (RPL).**
+:keyboard: I’m currently learning **Android Application**.  
+:cloud: Pronouns: **She/Her**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SyifaIsnan&label=Profile%20views&color=0e75b6&style=flat)
 
